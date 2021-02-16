@@ -486,12 +486,13 @@ header {
   margin-right: 7px;
   width: 16px;
   height: 15px;
+
   border: 2px solid var(--titel-text-color);
+  border-radius: 2px;
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
   background-image: url(../images/chekbox.svg);
-  border-radius: 2px;
 }
 
 /* .icon-svg {
